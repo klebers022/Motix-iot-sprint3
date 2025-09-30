@@ -116,17 +116,11 @@ Você pode baixar vídeos gratuitos para teste em:
 
 ---
 
-## 🛠️ Próximos Passos (Ideias)
-- 🚧 Adicionar **linha virtual de contagem (in/out)** para monitorar fluxo direcional.
-- 📡 Integração com API/web para monitoramento em tempo real.
-- 📱 Aplicativo mobile para visualização das estatísticas.
+## 👥 Participantes
 
----
+| Nome               | RM      |
+|--------------------|---------|
+| Kleber da Silva    | 557887  |
+| Nicolas Barutti    | 554944  |
+| Lucas Rainha       | 558471  |
 
-## 👨‍💻 Autores
-Projeto desenvolvido para fins acadêmicos (FIAP / Global Solution).  
-
----
-
-## 📄 Licença
-Este projeto é open-source sob a licença MIT.
